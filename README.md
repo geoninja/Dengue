@@ -1,7 +1,3 @@
-
-
-
-
 # **Dengue Data Analysis Project**  
 
 ## Authors: Paula Alves and Sergio Mattos.  
@@ -17,7 +13,7 @@ analisys.
 
 3. Use the data for modeling.The initial goal is to determine whether we can 
 predict the location and severity of an outbreak. The focus area in the state of
-Sao Paulo will be limited after goals 1 and 2. Part of the dataset will be set
-aside for test.  
+Sao Paulo will be limited with the completion of goals 1 and 2. Part of the 
+data will be set aside to test the models.  
 
 
