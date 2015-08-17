@@ -1,5 +1,19 @@
-# Repo for Dengue Data Project
-## September, 2015.
+# **Dengue Data Analysis Project**  
 
-### staging work!
+## Authors: Paula Alves and Sergio Mattos.  
+## *September, 2015.*  
+
+
+### This project aims to:  
+1. Collect data from a variety of sources (health, climate, geographic, 
+demographic) openly available and focusing on the state of Sao Paulo, Brazil. 
+
+2. Munge the data to a format suitable to be used for modeling and exploratory 
+analisys.  
+
+3. Use the data for modeling.The initial goal is to determine whether we can 
+predict the location and severity of an outbreak. The focus area in the state of
+Sao Paulo will be limited after goals 1 and 2. Part of the dataset will be set
+aside for test.  
+
 
