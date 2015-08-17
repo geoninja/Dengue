@@ -1,5 +1,3 @@
-# Dengue Data Analysis Project
-## September, 2015.
-
-### staging work!
+# Dengue Data Analysis Project  
+## September, 2015.  
 
