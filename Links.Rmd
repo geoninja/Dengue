@@ -1,0 +1,25 @@
+---
+title: "Links"
+author: "Paula Alves"
+date: "August 17, 2015"
+output: html_document
+---
+
+# Links to raw data related to the Dengue Project.  
+
+#### Dengue em São Paulo (cidade/estado)
+1. [link](http://www.cve.saude.sp.gov.br/htm/zoo/dengue_dados.html)  
+
+2. [link](http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-dengue)  
+
+#### Dengue no Brasil
+3. [link](http://dados.gov.br/dataset/taxa-de-incidencia-da-dengue)
+
+4. [link](http://dados.gov.br/dataset/odm6_dengue)
+
+#### Informacoes de interesse
+5. [link](http://www.combateadengue.com.br/category/documentos-para-download/acoes-de-combate-dengue/)
+
+#### Dengue em Campinas (tables)
+6. [link](https://dengue.campinas.sp.gov.br/sites/default/files/boletins/boletim-01-sintese_dados_dengue_campinas_2014_07_30.pdf)
+
