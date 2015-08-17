@@ -1,6 +1,6 @@
 # **Dengue Data Analysis Project**  
 
-## Authors: Paula Alves and Sergio Mattos.  
+## Authors: Paula Alves and Sergio Matos.  
 ## *September, 2015.*  
 
 
