@@ -3,6 +3,7 @@ title: "Links"
 author: "Paula Alves"
 date: "August 17, 2015"
 output: html_document
+tags: R
 ---
 
 # Links to raw data related to the Dengue Project.  
