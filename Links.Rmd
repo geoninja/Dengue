@@ -9,13 +9,12 @@ output: html_document
 
 #### Dengue in São Paulo (city/state)  
 
-##### http://www.cve.saude.sp.gov.br/htm/zoo/dengue_dados.html
+##### CVE [link] (http://www.cve.saude.sp.gov.br/htm/zoo/dengue_dados.html)  
 
-##### portalsaude
-2. [link](http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-dengue)  
+##### portalsaude [link](http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-dengue)  
 
 #### Dengue in Brazil  
-##### http://dados.gov.br
+##### dados.gov.br
 3. [link](http://dados.gov.br/dataset/taxa-de-incidencia-da-dengue)
 
 4. [link](http://dados.gov.br/dataset/odm6_dengue)
