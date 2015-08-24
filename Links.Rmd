@@ -35,3 +35,7 @@ tags: R
 #### References to recent paper on dengue transmission and the climate:  
 ##### [link](http://www.ncbi.nlm.nih.gov/pubmed/21737578)  
 ##### [link](http://www.ncbi.nlm.nih.gov/pubmed/24669859)  
+
+#### Paper about environmental influences on WNV incidence
+##### [link](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0015437&representation=PDF)  
+
