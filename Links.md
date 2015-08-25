@@ -28,6 +28,7 @@ tags: R
 #### Paper about Google Dengue Trends
 ##### [link](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001206)  
 ##### [link](http://www.people.fas.harvard.edu/~msantill/Mauricio_Santillana/Publications_files/Gluskin_et_al_pntd_2014.pdf)  
+##### source data: [link](http://www.google.org/flutrends/about/)
 
 #### Paper about Dengue incidence and climate changes
 ##### [link](http://www.ncbi.nlm.nih.gov/pubmed/19918363)  
