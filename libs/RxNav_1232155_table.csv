@@ -1,0 +1,15 @@
+1232155_table
+
+termType,rxcui,name,isHumanDrug,isVetDrug,isPrescribable
+"BN","1232155","Eylea","US","","Y",
+"DF","1649574","Injection","US","US","Y",
+"IN","1232150","aflibercept","US","","Y",
+"SBD","1232159","0.05 ML Eylea 40 MG/ML Injection","US","","Y",
+"SBDC","1232156","aflibercept 40 MG/ML [Eylea]","US","","Y",
+"SBDF","1723182","aflibercept Injection [Eylea]","US","","Y",
+"SCD","1232154","0.05 ML aflibercept 40 MG/ML Injection","US","","Y",
+"SCDC","1232151","aflibercept 40 MG/ML","US","","Y",
+"SCDF","1723180","aflibercept Injection","US","","Y",
+"SCDG","1232152","aflibercept Injectable Product","US","","Y",
+"SBDG","1232158","Eylea Injectable Product","US","","Y",
+"DFG","1151126","Injectable Product","US","US","Y",
